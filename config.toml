@@ -1,7 +1,9 @@
+title = "Блог frontend-разработчика - sandrig.com"
+description = "Заметки о JavaScript, React и инструментах для современной разработки SPA приложений."
+theme = "hyde"
+
 # The URL the site will be built for
 base_url = "https://sandrig.com"
-
-theme = "hyde"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
