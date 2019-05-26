@@ -17,3 +17,9 @@ build_search_index = false
 
 [extra]
 # Put all your custom variables here
+hyde_links = [
+  { url = "https://github.com/sandrig", name = "Github" },
+  { url = "https://t.me/sandrig", name = "Telegram" },
+  { url = "https://twitter.com/_sandrig", name = "Twitter" },
+  { url = "https://www.linkedin.com/in/sandrig/", name = "Linkedin" },
+]
