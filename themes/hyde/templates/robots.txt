@@ -1,5 +1,0 @@
-User-agent: *
-Sitemap: https://sandrig.com/sitemap.xml
-
-User-agent: Yandex
-Host: https://sandrig.com
