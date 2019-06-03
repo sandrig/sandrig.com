@@ -1,6 +1,8 @@
 +++
 title = "Алгоритмы на JavaScript: пузырьковая сортировка"
+slug = "bubble-sort"
 date = 2017-05-28
+template = "post.html"
 +++
 
 ```js
