@@ -1,7 +1,7 @@
 base_url = "https://sandrig.com"
 
 title = "Блог frontend-разработчика - sandrig.com"
-description = "Заметки о JavaScript, React и инструментах для современной разработки SPA приложений"
+description = "Заметки о JavaScript, React и инструментах для современной разработки SPA приложений."
 default_language = "ru"
 
 compile_sass = true
