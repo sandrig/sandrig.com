@@ -1,1 +1,9 @@
 @import 'vendor/normalize';
+
+// base
+@import 'global/base';
+@import 'global/fonts';
+
+// blocks
+@import 'blocks/container';
+@import 'blocks/footer';
