@@ -1,9 +1,10 @@
-@import 'vendor/normalize';
+@import "vendor/normalize";
 
 // base
-@import 'global/base';
-@import 'global/fonts';
+@import "global/base";
+@import "global/fonts";
 
 // blocks
-@import 'blocks/container';
-@import 'blocks/footer';
+@import "blocks/container";
+@import "blocks/social";
+@import "blocks/footer";

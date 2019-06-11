@@ -1,0 +1,22 @@
+.social {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+
+  &__item:first-child {
+    margin-left: 0;
+  }
+
+  &__item {
+    margin-left: 20px;
+  }
+
+  &__link {
+    color: #3e3e3e;
+    text-decoration: none;
+  }
+
+  &__link:hover {
+    text-decoration: underline;
+  }
+}

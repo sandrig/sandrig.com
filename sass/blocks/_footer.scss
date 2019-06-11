@@ -1,8 +1,10 @@
 .footer {
+  padding: 20px 0;
   text-align: center;
 
   &__title {
-    margin-bottom: 25px;
+    margin-bottom: 35px;
+    color: #bcbcbc;
     text-transform: uppercase;
   }
 
@@ -12,7 +14,7 @@
     margin-bottom: 20px;
   }
 
-    &__item:first-child {
+  &__item:first-child {
     margin-left: 0;
   }
 
@@ -21,7 +23,7 @@
   }
 
   &__link {
-    color: #3E3E3E;
+    color: #3e3e3e;
     text-decoration: none;
   }
 
@@ -30,6 +32,6 @@
   }
 
   &__copyright {
-    color: #BCBCBC;
+    color: #bcbcbc;
   }
 }
