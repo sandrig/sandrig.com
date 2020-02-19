@@ -1,0 +1,20 @@
+{% extends "index.html" %}
+
+{% block content %}
+<article class="post">
+  <div class="post__header">
+    <h1 class="post__title">{{ page.title | safe }}</h1>
+    <div class="post__meta">
+      <span>{{ page.reading_time }}</span>
+    </div>
+  </div>
+
+  <div class="post__body">
+    {{ page.content | safe }}
+  </div>
+
+  <div class="post__footer">
+    Социальные кнопки или комментарии
+  </div>
+</article>
+{% endblock content %}
