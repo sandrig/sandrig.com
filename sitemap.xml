@@ -1,0 +1,32 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    <url>
+      <loc>https://sandrig.com/</loc>
+      
+    </url>
+  
+    <url>
+      <loc>https://sandrig.com/blog/</loc>
+      
+    </url>
+  
+    <url>
+      <loc>https://sandrig.com/blog/bubble-sort/</loc>
+      
+        <lastmod>2017-05-28</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://sandrig.com/blog/javascript-async/</loc>
+      
+        <lastmod>2017-05-28</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://sandrig.com/blog/page/1/</loc>
+      
+    </url>
+  
+</urlset>
